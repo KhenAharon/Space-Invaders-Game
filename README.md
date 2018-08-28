@@ -2,7 +2,7 @@
 
 JDK should be installed.
 
-Run the following command in the terminal:
+Run the following commands in the terminal:
 ```
 make compile
 make run
